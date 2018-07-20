@@ -30,8 +30,8 @@ import qualified Data.List as List (delete, deleteBy, sortBy)
 import Data.Maybe(maybeToList, listToMaybe)
 import Data.Bits((.&.))
 import Control.Arrow(second)
-import Test.QuickCheck.All(quickCheckAll)
-import Test.QuickCheck.Arbitrary
+--import Test.QuickCheck.All(quickCheckAll)
+--import Test.QuickCheck.Arbitrary
 
 type Vector3 = V3 Double
 
